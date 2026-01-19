@@ -1,4 +1,4 @@
-##🧠 StudyHub Pro 
+## 🧠 StudyHub Pro 
 
 Complete productivity platform for ambitious students
 
